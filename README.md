@@ -1,4 +1,4 @@
-# SistemasenChip
+# Diseño de sistemas en chip 
 
 - Fernando Estrada Silva // A01736094
 
