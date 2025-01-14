@@ -4,6 +4,6 @@
 - Guillermo Ramos Domínguez // A01736484
 - Arick Morelos del Campo // A01735692
 
-En este repositorio se encuentran todos los códigos y configuraciones necesarias para resolver el reto del bloque TC1004B. En las secciones siguientes de la [Wiki](https://github.com/ferestradaa/SistemasenChip/wiki) se encuentran los codigos necesarios para posteriormente implementarlos en la solución de la situación problema. 
+Dentro de la [Wiki](https://github.com/ferestradaa/SistemasenChip/wiki) se encuentran todos los códigos y configuraciones necesarias para resolver el reto del bloque TC1004B
 
 
