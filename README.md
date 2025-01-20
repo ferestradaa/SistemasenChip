@@ -9,6 +9,7 @@ Algunas de las tecnologias principales que se han utilizado:
 - Microchip Studio AVR (C) : programacion de microcontrolador ATMEGA2560
 - Python: Diseño y despliegue de interfaz grafica de control
 - Pyrebase: Base de datos en Firebase
+  
 Dentro de la [Wiki](https://github.com/ferestradaa/SistemasenChip/wiki) se encuentran todos los códigos y configuraciones necesarias para resolver el reto del bloque TC1004B
 
 
